@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from typing import Tuple, Any
 
 def zoom_array(lst: Tuple[Any, ...], factor: int = 2) -> Tuple[Any, ...]:
